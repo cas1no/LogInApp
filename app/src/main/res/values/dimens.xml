@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="text_attributes_width">411.428571429dp
+	</dimen>                <!-- width ~ 1080px -->
+	<dimen name="text_attributes_height">82.2857142858dp
+	</dimen>                <!-- width ~ 1080/5 = 216px -->
+	<dimen name="icon_length">41.1428571429dp
+	</dimen>                        <!-- width ~ 1080/10 = 108px -->                <!--	20.57142857145	-->
+</resources>
